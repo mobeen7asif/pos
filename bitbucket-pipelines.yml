@@ -1,0 +1,10 @@
+image: php:7.1.1
+
+pipelines:
+  default:
+    - step:
+        script:
+          - apt-get update
+          - apt-get -qq install git-ftp
+          - git ftp push --user $DEV_FTP_USERNAME --passwd $DEV_FTP_PASSWORD $DEV_FTP_HOST
+          - php -v

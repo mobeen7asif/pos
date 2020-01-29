@@ -1,0 +1,7 @@
+first_name*,last_name*,email*,mobile,company_name,address,state,city,zip_code,profile_image,dob,note,password,country_code
+test,test,bas1@gmail.com,245423532,macdonalds,New York,California,New York,32423,https://picsum.photos/200,7/25/1998,a good note,123456,US
+test,test,ab@gmail.com,245423532,macdonalds,New York,California,New York,32423,https://picsum.photos/200,7/25/1998,a good note,123456,US
+asd,asd,a3@gmail.om,32423,werewr,asdasd,asd,assd,,https://picsum.photos/200,7/25/1998,asdasd,123456,US
+ewrew,qwer,a4@gmail.com,123123,qeqwer,adfsdf,342234,dfdsf,32433,https://picsum.photos/200,7/25/1998,erwr,123456,US
+tret,ert,a5@gmail.com,324234,werwret,werter,asdasd,asd,434543,https://picsum.photos/200,7/25/2000,asdasd,123456,PK
+tryrt,rtfgh,a6@gmail.com,32456,yetryer,rtyr,wet,wet,34534,https://picsum.photos/200,7/25/2000,erte,123456,IN

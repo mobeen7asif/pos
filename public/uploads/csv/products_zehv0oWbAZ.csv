@@ -1,0 +1,6 @@
+product_type,bar_code,name,sku,supplier_name,discount,cost,price,images,details,category,quantity,tax,varient,modifier
+standard,38745345,yyyy,87687686,Supplier,15%,30,40,"https://picsum.photos/200,https://picsum.photos/200",detial of product,Store 1 Category,200,GST,Color:Red,
+standard,4325435,yyyy,3456464365,Supplier,10%,45,56,"https://picsum.photos/200,https://picsum.photos/200",detial of product,Store 1 Category,200,GST,Color:Red,
+standard,5463456,yyyy,465736,Supplier,10%,45,56,"https://picsum.photos/200,https://picsum.photos/200",detial of product,Store 1 Category,200,GST,Color:Red,
+standard,3547445,yyyy,4567363,Supplier,10%,45,56,"https://picsum.photos/200,https://picsum.photos/200",detial of product,Store 1 Category,200,GST,Color:Red,
+standard,467363456,yyyy,456735463,Supplier,10%,45,56,"https://picsum.photos/200,https://picsum.photos/200",detial of product,Store 1 Category,200,GST,Color:Red,

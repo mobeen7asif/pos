@@ -1,0 +1,519 @@
+@charset "utf-8";
+/* CSS Document */
+
+@media (min-width: 1280px) and (max-width: 1309px) {}
+
+@media (min-width: 1024px) and (max-width: 1279px) {
+	
+.crackDownSocialLinks {  width: 36%;}
+.itemContentOuter ul {  width: 64%; }
+.recordData_main p {   width: 45%; } 
+.memberSinceInner b {  width: 37%;  float: right;}
+.entryType_pagiLeft ul li a {    width: 26px;}
+.signUpNewslatter input[type="text"] {   width: 73%;}
+.newlatterhead h2 {   font-size: 20px;    line-height: 31px;}
+.menu ul li a {   padding: 5px 15px;}
+.visitorlastView {     left: -219px;}
+.visitorlastView:after {   right: 119px;}
+.entryType_region_tabsBtn{font-size:12px;}
+.searchRecordAlphbaticlly{padding:10px 10px 10px 16px}
+.scoreOuter {   width: 38%;  float: none;  height: 20px;   margin-left:0%;}
+.entryType_region_tabsShowOut {  width: 100%;   padding: 0px 20px 40px 20px;}
+.orSection {   padding: 0px 28px;   margin-right: -7px;   width: 8.3%;}
+.regiterWith {   width: 51%;}
+.regiterWithFb a {   width: 223px;}
+.commentViewmain {  width: auto;   padding: 20px 20px;}
+.replayOnComment .commentatorCommentView {  width: 73%;}
+.commentatorCommentView h4 {   font-size: 17px;}
+.wishlistcollectionevent {  width: 79%; }
+
+.wishlistheading {   font-size: 13px;}
+.numberOfrecord{font-size:12px;}
+.wishtlistRecordLinsting_outer {    width: 100%;   padding: 40px 20px;}
+.searchRecordAlphbaticlly  ul:first-child{margin-bottom:5px; width:100%; float:left}
+ .crackDownFullImage .bx-wrapper .bx-viewport {
+    height: 179px !important;
+}
+.league_data {padding-top:10px;}
+	
+}
+
+
+
+
+
+@media (min-width: 768px) and (max-width: 1023px) {
+.lstViewd_rightBar{display:none;}
+.lstViewd_midContent {   width: 84%;   float: left;}
+
+.menu ul li a {     padding: 5px 5px;    font-size: 14px;   line-height: 20px;}
+.entryType_pagiLeft ul li a {   display: block;   width: 26px;   height: 34px;    font-size: 14px;}
+.entryType_pagiLeft ul li {   padding-right: 2px;}	
+.wishtlistRecordLinsting_outer {     width: 100%;   padding: 25px 20px;}	
+.wishtlistRecordSection {  width: 100%;   padding: 15px 10px;}	
+.visitorViewinner {   width: 87px;   height: 87px;}
+.memberSinceouter {   width: 96%;  float: left;}
+.numberOfrecord {  width: 29%;     font-size: 12px;}
+
+.visitorlastView {     width: 400px;    left: -153px;	}
+.visitorlastView:after{right:200px;}
+.storsOuter {   width: 42%;  float: right;}
+
+.rigisterUser h5{font-size:18px;}
+.rigisterUser p {  font-size: 14px;}
+.totalRecord h5 {    font-size: 18px;}
+.rigisterUser {   width: 35%;  float: left;}
+.storsOuter ul li{width:44%}
+.storsOuter ul li a{width:100px; background-size:100px !important;}
+.newlatterhead h2{font-size:15px; line-height:34px}
+.signUpNewslatter input[type="submit"]{width:70px;padding:4px 7px; font-size:13px;}
+.signUpNewslatter input[type="text"]{width:73%; font-size:13px; }
+.getIntuch h5{font-size:14px; }
+.sociallinkOuter ul li {   float: left;  padding: 0px 10px;}
+.collBat {
+    width: 23%;
+    float: left;
+}
+.getIntuch {
+width: 23%;
+float: left;
+}
+.sociallinkOuter {
+width: 27%;
+float: right;
+}
+.collBat ul li a{font-size:12px;}
+.getIntuchSocialLink {  width: 100%;  padding: 35px 0px 34px 0px;}
+
+.registerLoginMain {
+max-width: 94%;
+margin: auto;
+}
+
+.orSection {    margin-right: -13px;   width: 11.3%;}
+
+.regiterWith {   width: 52%;     padding-left: 8%;}
+.regiterWithFb a {   width: 230px;  height: 42px;}
+.lstViewd_midContent_outer {   width: 84%;   float: left;}
+.crackdownMain {
+width: 100%;
+padding: 10px;
+}
+.entryType_region_tabsBtn{font-size: 12px;
+padding: 10px 3px !important;}
+.crackdownOptions_head h2 {    font-size: 16px;    width: 47%; }
+.crackDownSocialLinks {   width: 38%;  float: right;}
+.replayOnComment .commentatorCommentView {   width: 70%;}
+.replayOnComment .commentatorCommentView h4 em {    color: #fff;  display: block;}
+.crackDownFullImage .bx-wrapper .bx-viewport{height:auto;}
+.overviewSinceouter {  width: 72%; }
+.viewRecordlink {    width: 28%;   float: right;   margin-top: 39px;}
+.itemContentOuter ul {   width: 60%;   float: left;}
+.itemContentOuter ul.itemContent {    width: 40%;   float: left;}
+.checkCardLable {   width: 74%;   float: left;}
+.memberSinceInner strong{font-size:12px; }
+
+.artboardmemberSinceouter  .memberSinceInner b{text-align:right;}  
+.artboardmemberSinceouter {   width: 41%;   float: left;   padding: 5px 3% 5px 5px;}
+.artboardmemberSinceouter {  width: 42%; }
+
+.backTo_topBtn {    right: 19px;  bottom: -87px;}
+.entryType_region_lftImg {   padding: 8px;  height: auto;  width: 100%;}
+
+.uploadPicture {      max-width: 100%; }
+
+.entryType_region_tabsShowOut {   padding: 0px 20px 40px 20px; }
+.scoreOuter {   width: 44%;   float: left; margin-bottom: 10px;}
+
+.discriptioninfo {   width: 61%;   float: left;}
+
+.crackDownFullImage{padding:0px;}
+.crackDownFullImage .bx-wrapper .bx-viewport {
+    height:166px !important;
+}
+.logo {    padding-top: 6px;}
+
+.searchRecordAlphbaticlly  ul:first-child{margin-bottom:5px; width:100%; float:left}
+.league_data {padding-top:10px;}
+
+	
+	  } 
+
+ 
+
+@media(max-width: 767px)
+{
+	
+body { -webkit-text-size-adjust: none; }
+
+.autoContent{ padding:0px 15px; }
+
+.menuIcon{ display:block; width:30px; height:20px; position:absolute; right:0px; top:21px; border-bottom:2px solid #8A1515;  border-top:2px solid #8A1515; transition:all 0.4s ease; cursor:pointer; z-index:23;  }
+
+.menuIcon:after{ width:80%; height:2px; background:#8A1515; content:""; display:block; position:absolute; right:0px; top:7px; transition:all 0.4s ease; }
+
+.menuIcon:hover:after{ right:20%; }
+
+
+.headerNave_topInnr{ width:100%; max-width:none;  }
+
+.headerNave_avtrPic a{ font-size:14px; }
+
+.hdrTop_nav_socials ul li{ padding-left:16px; }
+
+.hdrTop_nav_socials ul li a{ font-size:18px; }
+ 
+
+.menu_outer{display: none; background: url(../images/headerBg.png) repeat top center;
+position: fixed;
+top: 0px;
+left: 0px;
+ overflow-y:auto;
+height: 100%;
+z-index: 111; width:100%; }
+.menu ul li {
+    float: none;
+    padding-right: 0px;
+    width: 100%;
+    text-align: center;
+}
+.menu ul {
+    float: none;
+    position: relative;
+	padding-top:40px;
+}
+.menu ul li a{border:0px}
+.menu ul li:hover a {
+    border:none !important; color: #1b98e0;
+    background: none;
+} 
+
+.menu ul li:hover ul li a{ color: #666666; }
+
+.menu ul li a:hover{border:0px !important; background:none !important;}
+.menu ul li ul{ max-height:200px; overflow:auto; position:static; display:none;}
+.menu ul li:hover ul{display:block;}
+.menu ul li ul li ul{width:100%; height:auto ; overflow:inherit; padding-left:0px ; text-align:left; padding-right:0px}
+
+.logo{ width:50%; }
+
+.headerMain_innr{ padding-top:16px; }
+.headerlogo_bar{ padding-bottom:16px; }
+
+
+.lstViewd_leagues_titleHdng {
+    width: 100%;
+    padding-bottom: 20px;
+    max-width: 100%;
+    margin: auto;
+}
+ .lstViewd_leftBar_out {
+    width: 100%;
+    padding-right: 0px;
+    float: none;
+}
+
+.lstViewd_leftBar_Innr {
+    width: 100%;
+    max-width: 100%;
+}
+.lftBar_lastViwed_boxPic span img {
+    display: block;
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+    max-height: 100%;
+    margin: auto;
+}
+    .lftBar_lastViwed_boxPic {  height: 100%;
+    width: 100%;
+}
+    .lstViewd_midContent {
+    width: 100%;
+    float: none; 
+}
+
+
+.entryType_region_tabsTitle {    margin-bottom: 10px;}
+.entryType_region_tabsBtn {   font-size: 11px;   padding: 2px 8px;}
+
+.entryType_region_tabsShowOut {    padding: 15px 10px;}
+
+.entryType_region_rowLeft {   width: 100%;  float: none; margin-bottom: 30px;}
+
+.entryType_region_right {   width: 100%;  float: none;  padding-left: 0px;}
+
+.entryType_usrNames_lft {  width: 100%;   float: none;}
+  
+.entryType_usrNames_right {  width: auto;
+float: none;
+padding-top: 10px;
+padding-left: 3px;
+max-width: 100%;
+padding-bottom: 10px;}
+    
+.lstViewd_rightBar {  width: 100%;  padding-left: 0px;  float: none;   margin-top: 20px;}
+
+.paginationLeft_arow, .paginationRight_arow {   width: 25px;  height: 24px; background-size: 7px auto;}   
+
+.entryType_pagiLeft ul li a   { width: 17px;
+height: 25px;
+font-size: 12px;
+line-height: 21px;}   
+
+.entryType_pagiLeft {   width: 100%; float: none; text-align:center;margin-bottom:15px; } 
+.entryType_pagiLeft ul li{display:inline-block; float:none;vertical-align: top; padding-right: 0px;}
+.entryType_pagiOut {  padding-bottom: 15px;}
+.entryType_pagiRight {   float: none;     width: 100%; text-align:center}
+.entryType_pagiRight ul {  float: none;}  
+.entryType_pagiRight ul  li{display:inline-block; float:none; vertical-align:top;}
+.lstViewd_bottomFlex {   width: 100%;   padding-left: 0px;}
+.footerTopOuter {   width: 100%;   border-bottom: 1px solid #414142;  padding: 15px 0px;}
+.footer_autoContent {   max-width: 100%;  margin: auto;}
+.rigisterUser {   width: 100%;    float: none; padding-bottom:10px;}
+.totalRecord {    width: 100%;    float: none; padding-bottom:10px;}
+.storsOuter {    width: 100%;  float: none;}
+.getIntuchSocialLink {    width: 100%;   padding: 20px 0px;}
+.collBat h5{padding-bottom:5px;}
+.getIntuch {    width: 100%;   float: none; padding-bottom: 15px;}
+.collBat {   width: 100%;    float: none; padding-bottom: 15px;}
+.sociallinkOuter {  width: 100%;   float: none; padding-bottom: 20px;}
+.sociallinkOuter ul li:first-child{padding-left:0px;}
+.sociallinkOuter ul {    float: none;}
+.newlatterhead {    width: 100%;   float: none;}
+.signUpNewslatter {  width: 100%;  float: none;}
+.signUpNewslatter input[type="submit"] {    font-size: 12px;     width: 63px;   height: 37px; float:left; margin-left:5px; padding: 4px 8px;}
+
+.entryType_region_lftImg{padding:10px; height:auto}
+.entryType_region_lftImg span img {   display: block;   width: 100%;  height: auto;   max-width: 100%;   max-height: 100%;    margin: auto;}
+
+.entryType_pageSlct {   width:  44px; height: 30px;}
+.entryType_pageSlct span::before {right: 3px;top: -2px;}
+.lstViewd_rightBar{display:none;}
+
+.backTo_topBtn{right: 7px;bottom: -57px;}
+.homeBaner_innr h2 {    max-width: 100%;    letter-spacing: 0px;  font-size: 13px;line-height: 19px;padding-bottom: 8px;}
+.homeBaner_out {   width: 100%;   background-size:100% cover;    padding: 20px 0px;}
+
+.all_button {    height: 28px;    padding: 3px 12px;  line-height: 20px;  font-size: 11px; }
+.homeBaner_innr small {  font-size: 14px;   line-height: 10px;   padding-bottom: 6px;}
+.homeBaner_innr {   width: 100%;   padding-left:0%; max-width:200px; }
+.lstViewd_leagues_titleHdng h2 {  font-size: 18px;  line-height: 25px;}
+.lstViewd_leagues_contOut {  width: 100%;   padding: 24px 0px 32px 0px;}
+.entryType_usrNames_right a {   font-size: 12px;   line-height: 18px;}
+.entryType_region_right h2 {  font-size: 16px;  line-height: 23px;}
+.entryType_region_row {   padding-bottom: 10px;   margin-bottom: 30px;   }
+.lftBar_lastViwed_box strong {   font-size: 13px;}
+.lftBar_lastViwed_lsting h2 {    font-size: 16px;   line-height: 20px;   padding-bottom: 10px;}
+.entryType_pageSlct span {     padding: 4px 6px 4px 0px;    font-size: 13px;     line-height: 20px; }
+
+.rigisterUser h5 {   font-size: 18px;    padding-bottom: 5px;}
+
+.rigisterUser p {  font-size: 13px;}
+.totalRecord h5 {   font-size: 18px;  padding-bottom: 5px;}
+.totalRecord p {   font-size: 13px;}
+
+.storsOuter ul {  float: none;}
+.footerTopinner {   width: 100%;   padding: 15px 0px;}
+.getIntuch h5 {   font-size: 16px;  padding-bottom: 5px;}
+
+.getIntuch ul li a {   font-size: 13px;}
+.newlatterhead h2 {    font-size: 15px;    padding-bottom: 10px;}
+.newlatterOuter {   width: 100%;  padding: 0px 0px 30px 0px;}
+.copyrightBat {   padding-top: 7px;}
+.mainscrollBtn {   width: 33px;   height: 30px;}
+.crossmenu{ display:block;  position:absolute;    right: 23px;  top: 25px;}
+.searchRecordAlphbaticlly {   width: 100%;   padding: 10px;}
+.scoreOuter {  width: 100%;  float: left;  height: auto;  margin-left: 0px;   padding: 10px 0px;}
+.wishtlistRecordLinsting ul li {   margin: 0px 0px 15px 0px;  }
+.wishtlistRecordSection h2{font-size:13px; }
+.numberofRecord ul li{margin-bottom:0px !important}
+ .viewRecordOuter  ul li{margin-bottom:0px !important}
+.searchRecordAlphbaticlly ul li a {    font-size: 10px;}
+.entryType_region_tabsTitle ul li {
+    display: block; 
+    border-left: solid 1px #d2d3d5;
+    width: 50%;
+    float: left;
+    border-bottom: 1px solid  #d2d3d5!important;
+}
+.entryType_region_tabsTitle ul li:nth-of-type(2n + 1){border-left:0px;}
+.entryType_region_tabsBtn {   font-size: 13px;   padding: 5px;}
+
+.all_item_view .entryType_region_tabsBtn {   font-size: 13px;   padding: 5px;}
+.artBoardmemberView {   width: 100%;   float: none;    padding-left: 0px;}
+.artBoardmemberView_outer {   width: 100%;   padding: 15px 10px;}
+.visitorViewmain {    width: 120px;    height: 120px;  margin: auto;}
+.artBoardMemberDetail {    width: 100%;  float: none;margin-top:20px}
+.artboardmemberSinceouter {    width: 100%;    float: none;   padding: 5px 0% 5px 5px;}
+.wishlisteventHead h2 {     width: 61%;   font-size: 14px;    line-height: 1.11;      text-align: left;  padding-bottom: 5px;}
+
+
+.sortNumberOuter{ float:none; margin:auto; width:55px;}
+
+.memberSinceInner b{text-align:right; font-size: 13px;}
+.memberSinceInner strong{ font-size: 13px;}
+
+.visitorlastView {   width: 296px;   height: auto;   top: 100%;   left: 50%;  padding: 9px;    z-index: 2;     margin-left: -149px;  }
+.visitornameOuter h4 { font-size: 13px;}
+.visitorLastvisitview {   width: 65px;  height: 65px;  float: left;   margin-top: -46px;    margin-left: 20px;}
+.visitornameOuter {   width: 57%;   float: right;  padding-top: 27px;     padding-bottom: 17px;}
+.visiteDetailInfo {   width: 63%;  float: right;  }
+.messagesouter ul li a {    width: 31px;  height: 25px;   display: block;  text-align: center;    line-height: 26px;  font-size: 17px;}
+.visiteDetailInfo strong{font-size:12px;}
+.visiteDetailInfo p{font-size:12px;}
+.visitorlastView::after{right:144px;}
+
+.artboardpagination{padding:20px 10px;}
+.wishtlistRecord  ul li:first-child{ border-right:0px;   }
+.wishtlistRecord  ul li:nth-of-type(3){border-bottom:0px !important;  border-right:1px solid #d2d3d5;border-left:none;   }
+.registerLoginInner {  padding: 15px 10px;}
+.registerLoginDetail {   padding: 10px;}
+.registerLoginMain {   max-width: 100%;  margin: auto; display:block}
+
+.orSection{width:100%; display:block;border-bottom: 2px solid #800000; border-right:0px; position:relative; }
+.registrationForm {   width: 100%;   display: block;  margin-right: 0px; padding-bottom:0px;}
+ 
+.regiterWith {   height: 100%;  display: block;   width: 100%;    vertical-align: middle;  padding-left: 0px; padding-top: 30px;}
+.registerLoginOuter {  width: 100%;   margin: auto;  margin: 24px 0px 37px 0px;}
+.logoOuter {   width: 110px;  margin: auto;   padding-bottom: 5px;}
+.registerLoginHead h1 {  font-size: 16px;}
+.regiterWithFb a {   width: 205px;   height: 36px;  line-height: 36px;  margin:auto;  }
+ .regiterWithFb a strong {  width: 38px;  height: 34px; }
+.regiterWithFb a i {   font-size: 21px;    margin-top: 5px;   line-height: 28px;}
+.regiterWithFb h5 {   font-size: 13px;  padding-bottom: 8px; text-align:center}
+
+.regiterWithFb{width:100%; padding:20px 0px;}
+.orSection span {
+width: 50px;
+height: 17px;
+font-size: 15px;
+padding-bottom: 16px;
+position: absolute;
+top: -7px;
+left: 50%;
+margin-left: -25px;
+text-align: center;
+}
+
+.customTextfieldOuter small{font-size:13px;}
+.customFieldSelect span{font-size:13px;}
+.checkBoxouter label strong {     font-size: 14px; }
+.checkBoxouter2 label strong {    font-size: 14px; }
+.checkBoxouter3 label strong {    font-size: 14px; }
+.checkBoxouter label.select strong {     font-size: 14px; }
+.checkBoxouter2 label.select strong {      font-size: 14px; }
+.checkBoxouter3 label.select strong {     font-size: 14px; }
+.lstViewd_midContent_outer {   width: 100%;   float: none;}
+.customRecordLeft {   width: 100%;    float: none; padding-bottom:10px;}
+.customRecordRight {  width: 100%;   float: none;padding-bottom:10px;}
+.creat_record_Outer {  width: 100%;  padding: 15px 10px;    margin-top: 15px;}
+.additionalInfoInner p {   font-size: 13px;}
+.additionalInfoInner{padding:10px;}
+.uploadPicture {   padding: 8px 8px 0px 8px;    max-width: 100%;   margin-bottom: 13px;}
+.browsFieldsOuter {  width: 100%;  float: none; margin-bottom: 20px;}
+.addPic_list {  width: 100%;  float: none;}
+.addPic_main_inner p {    font-size: 10px; }
+.cartridgeOuter {   width: 100%;   float: none;}
+.gameConditonOuter {   width: 100%;   float: none;}
+
+.crackdownMain {   width: 100%;   padding: 0px;}
+.crackdownInner {   width: 100%;  padding: 15px 10px;}
+.crackDownFullImage {   width: 100%;   height: auto;   float: none;   padding: 10px;}
+.crackdownOptions {   width: 100%;    float: none;}
+.crackDownSocialLinks {   width: 41%;  float: right;}
+.megaDriveOuter {   width: 73%;  float: left;}
+.crockdownEdit a {  width: 60px;  height: 25.1px;   padding: 4px 13px;    line-height: 16px;}
+.itemContentOuter ul.itemContent {  width: 60%;  float: left;}
+ .itemContentOuter ul {  width:  60%;  float: left;}
+.checkCardLable {   width: 79%;   float: left;}
+.entryType_region_tabsBtn em { 
+padding-right: 11px;}
+.megaDriveOuter p {    font-size: 13px;}
+
+.secondViewd_leagues_titleHdng h2 {    font-size: 18px;   line-height: 25px;}
+.crackDownFullImage .bx-wrapper .bx-viewport{height:140px !important}
+.crackDownPlus {    width: 24px;   height: 27px;   display: block;    float: left;    margin: 3px 0px 0px 10px;}
+.crackdownOuter {   width: 100%;  padding: 5px 18px 34px 18px;}
+.crackdownOptions_head_main {  width: 100%;  padding-bottom: 20px;}
+.itemContentOuter {   width: 100%;  padding-bottom: 20px;}
+.recordData {  width: 100%;   padding-bottom: 20px;}
+.itemContentOuter ul li{padding-left:0px;}
+.lstViewd_leagues_contMain {   width: 100%;   padding-bottom: 11px;}
+
+.league_overView {    width: 100%;  padding: 15px 10px; }
+.overviewMainview {   width: 100%;  float: none;   padding: 10px; }
+.league_overView .artBoardMemberDetail {    width: 100%;  float: none;}
+.overviewSinceouter {    width: 100%;   float: left;  padding: 5px 1% 5px 0px;}
+.viewRecordlink {   width: 100%;   float: right;  margin-top: 10px;}
+.viewRecordlink ul li a {   width: 100%;   font-size: 13px;}
+.artBoardLocationdetail h1 {  font-size: 13px; padding-bottom:5px;}
+.signUpNewslatter input[type="text"]{font-size:12px;  width: 76%;}
+.crackdownOptions_head h2 {  font-size: 16px;}
+.collector_data {  width: 100%;   padding-top: 0px;  padding-bottom: 20px;}
+.score_cardInner {   width: 100%;   float: left;   padding-right: 0px; padding-bottom:0px;}
+.commentViewmain {  padding: 15px 10px;}
+
+.commentatorview {    width: 120px;   float: none; margin:auto}
+.commentatorCommentView {   width: 100%;    float: none;    padding: 15px 0px 0px 0px;}
+.commentatorCommentView h4 {  font-size: 14px;
+padding-bottom: 5px;}
+.commentatorCommentView h4 em{display:block}
+.replayOnComment {    width: 100%;     padding: 15px 10px; float:none}
+.replayOnComment .commentatorview {   width: 104px;   margin: auto;   float: none;}
+.replayOnComment .commentatorCommentView {   width: 100%; padding-top:0px; padding-bottom:20px;}
+.commentatorCommentView p{padding-bottom:10px;}
+.recordCollectionOuter {   width: 100%;    padding: 15px 10px;}
+.visitorViewOuter {   width: 120px;   float: none;   margin: auto;}
+.wishlistcollectionevent {    width: 100%;  float: none;   padding: 10px 0px 0px 0px;}
+.memberSinceouter {   width: 100%;     float: none;}
+.discriptioninfo {   width: 100%;    float: none; padding-bottom:15px;} 
+.wishtListDelate {   width: 120px;    height: 30px;     float: left;}
+.activewishListmain {    width: auto;  display: block;   padding: 10px; }
+.numberOfrecord{width:100%; float:none; display:block; padding-bottom:10px;}
+
+.wishtlistRecordLinsting ul li {    width: 100%;   float: none;   margin: 0px 0px 20px 0px;   margin-left: 0px;}
+.wishtlistRecordLinsting_outer {   width: 100%;     padding: 10px ;}
+.viewRecordOuter ul li a {   font-size: 12px;}
+
+
+.menu ul li a:after {display:none;}
+ 
+ 
+ .league_data {padding-top:0px;}
+ 
+ .logo a{ max-width:124px; }
+ 
+.crackDownthumbnil_main ul li{ width:20%; margin-bottom:5px; } 
+ 
+.navSearch_icon{ display:block; width:30px; height:30px; font-size:22px; line-height:30px; text-align:center; position:absolute; right:52px; top:14px; color:#8A1515; cursor:pointer; }
+
+.hdr_srchBar {  background: #fff; padding: 15px; position: absolute; left: 0px; top: 100%; width: 100%; box-shadow:2px 2px 4px #c6c6c6; display:none; z-index:22; }
+
+.hdr_srchBar ul{ display:block; width:100%; }
+.hdr_srchBar ul li{ display:block; width:100%; padding:0px 0px 10px 0px; }
+.hdr_srchBar_field input, .hdr_srchBar_field span{ font-size:14px; }
+
+.hdr_srchBar.navSrch_show{ display:block; }
+
+
+
+
+
+
+}
+  
+@media (min-width: 480px) and (max-width: 767px) { 
+
+
+
+
+
+ }
+
+
+  
+  
+  
+  
+  

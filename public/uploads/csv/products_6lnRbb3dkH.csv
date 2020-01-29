@@ -1,0 +1,2 @@
+product_type,bar_code,name,sku,supplier_name,discount,cost,price,images,details,category,quantity,tax,varient,modifier
+standard,786786,Raita,5475677,Supplier,15%,30,40,"https://picsum.photos/200,https://picsum.photos/200",detial of product,Store 1 Category,200,GST,"New:Red,Old:Black",
